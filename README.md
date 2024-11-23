@@ -23,4 +23,4 @@ open the Xcode Project
 Head over to [Releases](https://github.com/timi2506/swiftui-haptics-helper/releases) or go to the [Latest Release](https://github.com/timi2506/swiftui-haptics-helper/releases/latest) and grab the ipa or build the app yourself and install it with Xcode or other third party tools like [Sideloadly](https://sideloadly.io)
 
 ## Credits
-- @emreeilhan for making [HapticEase](https://github.com/emreeilhan/HapticEase)
+- [@emreeilhan](https://github.com/emreeilhan/) for making [HapticEase](https://github.com/emreeilhan/HapticEase)
