@@ -20,4 +20,4 @@ open the Xcode Project
 ```open ./haptics.xcodeproj```
 
 ## Download and Installing
-Head over to ["Releases"](https://github.com/timi2506/swiftui-haptics-helper/releases) or go to the ["Latest Release"](https://github.com/timi2506/swiftui-haptics-helper/releases/latest) and grab the ipa or build the app yourself and install it with Xcode or other third party tools like ["Sideloadly"](sideloadly.io)
+Head over to [Releases](https://github.com/timi2506/swiftui-haptics-helper/releases) or go to the [Latest Release](https://github.com/timi2506/swiftui-haptics-helper/releases/latest) and grab the ipa or build the app yourself and install it with Xcode or other third party tools like [Sideloadly](sideloadly.io)
