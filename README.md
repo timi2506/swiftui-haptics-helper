@@ -28,4 +28,4 @@ Head over to [Releases](https://github.com/timi2506/swiftui-haptics-helper/relea
 ## Check it out without installing
 i uploaded it to appetize.io so you can check it out in a simulator before installing (without haptics tho obviously)
 
-[Check out the UI](https://appetize.io/embed/b_jbby4hogzta643zp65h5rs4v7e)
+[Check out the UI](https://appetize.io/app/b_twpgjjesyp3lydvckrpnkurofa)
