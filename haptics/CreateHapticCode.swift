@@ -19,7 +19,6 @@ struct CreateHapticCode: View {
         """
         HapticFeedback()
                 \(HapticID)
-        }
         """
     }
     var HapticButtonCodeExample: String {
